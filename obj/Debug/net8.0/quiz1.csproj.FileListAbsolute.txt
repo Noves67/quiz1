@@ -1,0 +1,5 @@
+C:\Users\nouf2\OneDrive\سطح المكتب\Calculator\quiz1\obj\Debug\net8.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nouf2\OneDrive\سطح المكتب\Calculator\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfoInputs.cache
+C:\Users\nouf2\OneDrive\سطح المكتب\Calculator\quiz1\obj\Debug\net8.0\quiz1.AssemblyInfo.cs
+C:\Users\nouf2\OneDrive\سطح المكتب\Calculator\quiz1\obj\Debug\net8.0\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\nouf2\OneDrive\سطح المكتب\Calculator\quiz1\obj\Debug\net8.0\quiz1.sourcelink.json
