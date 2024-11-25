@@ -1,20 +1,21 @@
- using system;
- publce class Programm{
-    publce stice void Mian(string[]arges){
-        consol.writline("Enter number?");
-        int num 
+ using System;
+ public class Programm{
+    public static void Mian(string[]arges){
+        Console.WriteLine("Enter number?");
+        int num =int.Parse(Console.ReadLine());
+        
         if (num>0)
         {
-          consol.writline("the number is Positive.");
+          Console.WriteLine("the number is Positive.");
 
         }
        else if ( num<0)
        {
-        consol.writline("the number is Negative.");
+        Console.WriteLine("the number is Negative.");
        } 
-        else  ( num==0)
+        else  
         {
-            consol.writline("the number eqwle Zero.");
+            Console.WriteLine("the number eqwle Zero.");
         }
 
 

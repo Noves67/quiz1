@@ -1,13 +1,13 @@
-﻿using system;
-publce class Program
+﻿using System;
+public class Programa
 {
- publce stice void Mian(string[]arges) {
-    consol.writline(" Enter your name:");
-string =Name;
- Name =" NOUF";
+ public static void Mian(string[]arges) {
+    Console.WriteLine(" Enter your name:");
+string Name = "nouf";
+
 int age = 24;
-string Grade = good
-consol.writline(" Name: [Name], age:[Age], Grade:[Grade]");
- }
+string Grade = "good";
  
+ Console.WriteLine (" Name: [Name], age:[Age], Grade:[Grade]");
+ }
 }
